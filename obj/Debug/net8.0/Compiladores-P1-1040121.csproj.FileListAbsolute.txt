@@ -1,0 +1,14 @@
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\bin\Debug\net8.0\Compiladores-P1-1040121.exe
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\bin\Debug\net8.0\Compiladores-P1-1040121.deps.json
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\bin\Debug\net8.0\Compiladores-P1-1040121.runtimeconfig.json
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\bin\Debug\net8.0\Compiladores-P1-1040121.dll
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\bin\Debug\net8.0\Compiladores-P1-1040121.pdb
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\obj\Debug\net8.0\Compiladores-P1-1040121.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\obj\Debug\net8.0\Compiladores-P1-1040121.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\obj\Debug\net8.0\Compiladores-P1-1040121.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\obj\Debug\net8.0\Compiladores-P1-1040121.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\obj\Debug\net8.0\Compiladores-P1-1040121.dll
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\obj\Debug\net8.0\refint\Compiladores-P1-1040121.dll
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\obj\Debug\net8.0\Compiladores-P1-1040121.pdb
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\obj\Debug\net8.0\Compiladores-P1-1040121.genruntimeconfig.cache
+C:\Users\carlo\source\repos\Compiladores-P1-1040121\obj\Debug\net8.0\ref\Compiladores-P1-1040121.dll
